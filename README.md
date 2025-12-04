@@ -86,9 +86,8 @@ Each scan runs in a worker thread without blocking the interface.
 
 # 📸 Screenshots
 
-Create a folder `/assets/` and add your screenshots.  
-You can embed them like this:
-
+![Exposure Scan](assets/photo.jpg)
+![Exposure Scan](assets/img.jpg)
 # 📦 Installation
 
 ### 1. Clone repository
