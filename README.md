@@ -85,9 +85,12 @@ Sends safe HEAD requests to:
 Each scan runs in a worker thread without blocking the interface.
 
 # 📸 Screenshots
-
+UI of the tool
 ![Exposure Scan](assets/photo.jpg)
+
+HTML Report of the tool
 ![Exposure Scan](assets/img.jpg)
+
 # 📦 Installation
 
 ### 1. Clone repository
