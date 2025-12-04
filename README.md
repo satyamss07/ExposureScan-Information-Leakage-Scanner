@@ -182,11 +182,11 @@ Only scan targets you own or are authorized to test. Unauthorized scanning is il
 🤝 Contributing
 Pull requests are welcome.
 Recommended contributions:
-New detection rules
-New endpoints for fingerprinting
-Better UI
-Docker support
-Database-backed job storage
+New detection rules,
+New endpoints for fingerprinting,
+Better UI,
+Docker support,
+Database-backed job storage.
 
 ⭐ Support the Project
 If you find this tool useful:
