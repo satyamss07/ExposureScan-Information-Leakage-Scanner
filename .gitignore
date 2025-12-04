@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+dist/
+build/
+.env
+venv/
+env/
+.venv/
+pip-wheel-metadata/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editors
+.vscode/
+.idea/
+
+# Bytecode cache
+**/__pycache__/
+
+# Logs
+*.log
+
+# Reports / Generated files
+*.xlsx
+*.zip
+*.html
+*.json
+reports/
+.exposurescan_tmp/
+
+# Flask runtime stuff
+instance/
+.flaskenv
+
+# Cache
+.cache/
+
+# Test artifacts
+.coverage
+htmlcov/
+
+# Server PID files
+*.pid
+
+# Node (if any UI extensions in future)
+node_modules/
