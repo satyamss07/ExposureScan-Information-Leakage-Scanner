@@ -144,19 +144,19 @@ Click "Vulnerable-only preview" to see affected targets instantly.
 
 📄 Output Format
 
-🟥 High Severity
-Server versions
-PHP/ASP.NET versions
-Internal environment leaks
-Sensitive comments
-robots.txt with admin/backup/env paths
+🟥 High Severity:
+Server versions,
+PHP/ASP.NET versions,
+Internal environment leaks,
+Sensitive comments,
+robots.txt with admin/backup/env paths.
 
-🟡 Medium Severity
-Tech/framework version leaks
-Exposed endpoints from active scan
+🟡 Medium Severity:
+Tech/framework version leaks,
+Exposed endpoints from active scan.
 
-⚪ Low Severity
-Non-dangerous metadata
+⚪ Low Severity:
+Non-dangerous metadata,
 Example Finding Entry:
 ```bash
 {
@@ -172,10 +172,10 @@ Example Finding Entry:
 ⚖️ Legal & Ethical Use
 
 This tool is made for:
-Pentesters
-Security researchers
-Bug bounty hunters
-System administrators
+Pentesters,
+Security researchers,
+Bug bounty hunters,
+System administrators.
 
 Only scan targets you own or are authorized to test. Unauthorized scanning is illegal.
 
